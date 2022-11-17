@@ -1,1 +1,1 @@
-# GradientBoosted_Classifier_home_credit_default_risk
+# This program uses Gradient Boosted classifier and Random Forest on home-credit-deafult-risk
